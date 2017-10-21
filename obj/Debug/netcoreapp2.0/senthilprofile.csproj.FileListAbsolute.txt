@@ -1,0 +1,10 @@
+F:\projects\senthilprofile\bin\Debug\netcoreapp2.0\senthilprofile.deps.json
+F:\projects\senthilprofile\bin\Debug\netcoreapp2.0\senthilprofile.runtimeconfig.json
+F:\projects\senthilprofile\bin\Debug\netcoreapp2.0\senthilprofile.runtimeconfig.dev.json
+F:\projects\senthilprofile\bin\Debug\netcoreapp2.0\senthilprofile.dll
+F:\projects\senthilprofile\bin\Debug\netcoreapp2.0\senthilprofile.pdb
+F:\projects\senthilprofile\obj\Debug\netcoreapp2.0\senthilprofile.csproj.CoreCompileInputs.cache
+F:\projects\senthilprofile\obj\Debug\netcoreapp2.0\senthilprofile.AssemblyInfoInputs.cache
+F:\projects\senthilprofile\obj\Debug\netcoreapp2.0\senthilprofile.AssemblyInfo.cs
+F:\projects\senthilprofile\obj\Debug\netcoreapp2.0\senthilprofile.dll
+F:\projects\senthilprofile\obj\Debug\netcoreapp2.0\senthilprofile.pdb
